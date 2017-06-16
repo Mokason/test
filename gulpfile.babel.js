@@ -349,6 +349,7 @@ gulp.task('serve', cb => {
         'watch',
         cb
     );
+
 });
 
 gulp.task('serve:debug', cb => {
