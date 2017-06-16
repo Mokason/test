@@ -143,7 +143,7 @@
     "test": "gulp test",
     "flow": "flow",
     "update-webdriver": "node node_modules/protractor/bin/webdriver-manager update",
-    "start": "node server"
+    "start": "gulp deploy"
   },
   "private": true
 }
